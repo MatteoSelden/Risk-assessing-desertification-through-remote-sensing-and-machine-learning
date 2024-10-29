@@ -9,8 +9,8 @@ An image recognition model able to distinguish between landscape features to ext
 A predictive model able to capture trends from predictions made in different plausible climatic scenarios, highlighting the chance of worsening of desertification over a certain region
 
 Data used for training and testing acquired from the following databases:
-Landsat OLI/TIRS 8-9 C2 L1 satellite images: EarthExplorer (https://earthexplorer.usgs.gov/)
-Historical climatic data: ERA5-Land monthly averaged data from 1950 to present (https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-monthly-means?tab=overview)
+- Landsat OLI/TIRS 8-9 C2 L1 satellite images: EarthExplorer (https://earthexplorer.usgs.gov/)
+- Historical climatic data: ERA5-Land monthly averaged data from 1950 to present (https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-monthly-means?tab=overview)
 
 More information about the code will be in the wiki, including a tutorial to run the code, which I hope will be fairly easy to follow as it’s one of the main objectives of this project.
 
